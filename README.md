@@ -1,1 +1,1 @@
-# Python
+# Yapay Zeka İçin Python Programlama
