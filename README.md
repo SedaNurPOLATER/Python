@@ -1,6 +1,6 @@
 # Yapay Zeka İçin Python Programlama
 
-DATAİTEAM in Udemy de oluşturduğu 7 adımlık eğitimin ilk adımı olan "Yapay Zeka İçin Python Programlama" eğitiminin kodlarını barındırır.
+DATAiTEAM in Udemy de oluşturduğu 7 adımlık eğitimin ilk adımı olan "Yapay Zeka İçin Python Programlama" eğitiminin kodlarını barındırır.
 
 İçerik olarak sıfırdan pythona göz atabilir ve pythonda en çok kullanılan kütüphanelerin işlevlerine, kullanılış şekillerine bakabilirsiniz.
 
